@@ -1,0 +1,9 @@
+#robots.txt für die Domain 52095914.de.strato-hosting.eu
+#erzeugt am 22.07.2009
+ 
+User-agent: *
+Disallow: 
+ 
+User-agent: *
+Disallow: 
+ 

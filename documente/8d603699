@@ -1,0 +1,336 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link href="images/logoicon.jpg" rel="shortcut icon" title="kaplogo">
+<link href="images/logoicon.jpg" rel="icon" title="kaplogo" type="image/gif">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Kinder Afrika Projekt KAP</title>
+<meta name="Keywords" content="KAP, kinderhilfe, afrikahilfe, kinderafrika, spende, helfen sie, kinder soldat, spenden für afrika, spenden für kinder, kinderarmut, hungerhilfe, armuthilfe, afrika hilfe," />
+<meta name="Description" content="Kinder Afrika Projekt hat das Ziel den Ärmsten, Kranken und Elternlosen afrikanischen Kindern, insbesondere durch Nahrung, zu helfen und sie zu unterstützen.
+
+Wir helfen durch Ihre Spende, Hunger in Entwirklungsländern und in Afrika zu bekämpfen.
+
+Helfen sie Afrikakinder, zu teuren oder zu schwer beschafenden Medikamenten zu beschafen." />
+<style type="text/css">
+<!--
+body {
+	background-color: #FFFFCC;
+}
+.style13 {font-size: 16px; font-weight: bold; color: #000000; }
+.style14 {
+	color: #000000;
+	font-weight: bold;
+}
+.style16 {font-size: 14px}
+a:link {
+	color: #FF3300;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #990066;
+}
+a:hover {
+	text-decoration: underline;
+	color: #99CC00;
+}
+a:active {
+	text-decoration: none;
+	color: #00FF99;
+}
+.style28 {
+	font-size: 18px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.style32 {font-size: 12px}
+.style43 {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10; }
+.style44 {font-family: Verdana, Arial, Helvetica, sans-serif}
+.style45 {font-size: 14px; color: #FF3300; }
+.style48 {font-size: 16px}
+.style49 {color: #000000; font-size: 16px;}
+.style50 {font-size: 14px; font-weight: bold; color: #000000; }
+.style52 {font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
+-->
+</style>
+<script type="text/javascript">
+<!--
+function MM_validateForm() { //v4.0
+  if (document.getElementById){
+    var i,p,q,nm,test,num,min,max,errors='',args=MM_validateForm.arguments;
+    for (i=0; i<(args.length-2); i+=3) { test=args[i+2]; val=document.getElementById(args[i]);
+      if (val) { nm=val.name; if ((val=val.value)!="") {
+        if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
+          if (p<1 || p==(val.length-1)) errors+='- '+nm+' must contain an e-mail address.\n';
+        } else if (test!='R') { num = parseFloat(val);
+          if (isNaN(val)) errors+='- '+nm+' must contain a number.\n';
+          if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
+            min=test.substring(8,p); max=test.substring(p+1);
+            if (num<min || max<num) errors+='- '+nm+' must contain a number between '+min+' and '+max+'.\n';
+      } } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
+    } if (errors) alert('The following error(s) occurred:\n'+errors);
+    document.MM_returnValue = (errors == '');
+} }
+//-->
+</script>
+</head>
+<body>
+<table width="895" height="20" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    
+  </tr>
+</table>
+
+<table width="900" height="154" align="center" cellspacing="1" bgcolor="#CC3333">
+  <tr>
+    <th width="157" rowspan="2" scope="col"><img src="images/KAP-Afrika.jpg" alt="kap logo" width="153" height="151" border="1" /></th>
+    <th height="109" colspan="6" scope="col"><img src="images/kaphead.jpg" alt="kaphead" width="738" height="123" border="0" /></th>
+  </tr>
+  <tr>
+    <td width="146" height="24" bgcolor="#FFFFFF"><a href="kinder-afrika-projekt.html">
+    <div align="center" class="style86"></div></td>
+    <td width="76" bgcolor="#FFFFFF"><div align="center"><span class="style88"><a href="kinder-afrika-projekt.html">HOME</a></span></div></td>
+    <td width="120" bgcolor="#FFFFFF""><div align="center" class="style91"><span class="style136"><a href="ueber-kap.html">UEBER KAP</a></div></td>
+    <td width="164" bgcolor="#FFFFFF"><div align="center"><span class="style137"><a href="unsere-arbeit.html">UNSERE ARBEIT</a></div></td>
+    <td width="118" bgcolor="#FFFFFF"><div align="center"><span class="style93"><a href="spenden.html">MITHELFEN</a></span></div></td>
+    <td width="95" bgcolor="#FFFFFF"><div align="center"><span class="style93"><a href="kontakt.html">KONTAKT</a></span></div></td>
+  </tr>
+</table>
+<table width="900" height="665" align="center" bgcolor="#CCFFCC">
+  <tr>
+    
+    <th height="21" bgcolor="#CCFFCC" scope="col">&nbsp;</th>
+    <th height="21" scope="col">&nbsp;</th>
+    <th scope="col">&nbsp;</th>
+    <th width="284" scope="col">&nbsp;</th>
+    <th colspan="2" scope="col">&nbsp;</th>
+    <th width="1" scope="col">&nbsp;</th>
+  </tr>
+  <tr>
+    <td height="21" bordercolor="#99FF33" bgcolor="#CCFFCC"><div align="center" class="style13"></div></td>
+    <td width="182" height="21" bordercolor="#99FF33" bgcolor="#FF9966"><div align="center"><a href="/trinkwasser.html"><strong>Trinkwasser</strong></a></div></td>
+    <td width="40">&nbsp;</td>
+    <td width="284" rowspan="8" valign="top"><span class="style44"><strong>KAP Deutschland e.V.</strong>      <br />
+      Zieglerstraße 26
+          <br />
+      65191 Wiesbaden
+  <br />
+      Tel: 0611 5325148 
+      <br />
+      Mobile: 0176 80054646
+      <br />
+      Fax: 0611 2385226
+      <br />
+      Email: <span class="style45">info@kap-deutschland.org</span></span>      <span class="style44"><br />
+    Website: <a href="/index.html" class="style16">www.kap-deutschland.org</a></span></td>
+    <td width="39">&nbsp;</td>
+    <td colspan="2" rowspan="25" valign="top"><p align="center"><span class="style28">Kontakt Formular</span></p>      
+      <form action="/cgi-bin/send_form_mail.php.cgi" method="post">
+      <input type="hidden" name="r_email" value="info@kap-deutschland.org" >
+<input type="hidden" name="form_type" value="own_form" >
+<table width="296" border="1" align="center" bgcolor="#BECBB8">
+          <tr>
+            <th width="71" align="right" valign="top" class="style32" scope="col"><span class="style43">
+              <label for="Name">Name:</label>
+            </span></th>
+            <td width="209" align="center" valign="top" scope="col"> <input name="Name" type="text" id="Name" size="30" />               </td>
+          </tr>
+          <tr>
+            <td align="right" valign="top" class="style32"><span class="style43">
+              <label for="StrasseundHausNr"><strong>Strasse:</strong></label>
+            </span></td>
+          <td align="center" valign="top"><input name="StrasseundHausNr" type="text" id="StrasseundHausNr" size="30" />          </tr>
+          <tr>
+            <td align="right" valign="top" class="style32"><span class="style43">
+              <label for="Stadt"><strong>PLZ/Ort:</strong></label>
+            </span></td>
+            <td align="center" valign="top"><input name="Stadt" type="text" id="Stadt" size="30" /></td>
+          </tr>
+          <tr>
+            <td align="right" valign="top" class="style32"><span class="style43"><strong>
+              <label for="Fon">Telefon:</label>
+            </strong></span></td>
+            <td align="center" valign="top"><input name="Fon" type="text" id="Fon" size="30" /></td>
+          </tr>
+          <tr>
+            <td align="right" valign="top" class="style32"><span class="style43"><strong>
+              <label for="EmailAdress">Email:</label>
+            </strong></span></td>
+          <td align="center" valign="top" onfocus="MM_validateForm('EmailAdress','RisEmail');return document.MM_returnValue"><input name="EmailAdress" type="text" id="EmailAdress" size="30" />          </tr>
+          <tr>
+            <td align="right" valign="top" class="style32"><span class="style43"><strong>
+              <label for="TextBereich">Schreiben:</label>
+            </strong></span></td>
+            <td align="center" valign="top"><textarea name="TextBereich" id="TextBereich" cols="32" rows="5"></textarea></td>
+          </tr>
+          <tr>
+            <td colspan="2" align="center" valign="middle"><br />
+              <input name="Weiter" type="submit" id="Weiter" value="Senden" />
+            <br /></td>
+          </tr>
+        </table>
+      <br />
+    </form>    </td>
+    <td width="23">&nbsp;</td>
+  </tr>
+  <tr>
+    
+    <td height="21" bgcolor="#CCFFCC">&nbsp;</td>
+    <td height="21">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td width="39">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="21" bordercolor="#99FF33" bgcolor="#CCFFCC"><div align="center" class="style14"></div></td>
+    <td width="182" height="21" bordercolor="#99FF33" bgcolor="#FF9966"><div align="center"><span class="style13"><a href="die-situation.html">Die Situation</a></span></div></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td width="23">&nbsp;</td>
+  </tr>
+  <tr>
+  
+  <td height="21" bgcolor="#CCFFCC">&nbsp;</td>  
+  <td height="21">&nbsp;</td>
+  <td>&nbsp;</td>
+  <td width="39">&nbsp;</td>
+  <tr>
+    <td height="21" bordercolor="#99FF33" bgcolor="#CCFFCC">&nbsp;</td>
+    <td width="182" height="21" bordercolor="#99FF33" bgcolor="#FF9966"><div align="center"><span class="style14"><a href="ziele.html">Ziele</a></span></div></td>
+    <td>&nbsp;</td>  
+    <td>&nbsp;</td>
+    <td width="23">&nbsp;</td>
+  <tr>
+   
+    <td height="21" bgcolor="#CCFFCC">&nbsp;</td>
+    <td height="21">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td width="39">&nbsp;</td>
+  <tr>
+    <td height="21" bordercolor="#99FF33" bgcolor="#CCFFCC"><div align="center"></div></td>
+    <td width="182" height="21" bordercolor="#99FF33" bgcolor="#FF9966"><div align="center"><a href="sierra-leone.html"><strong>Kinder in  Sierra Leone</strong></a></div></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td width="23">&nbsp;</td>
+  <tr>
+    
+    <td height="21" bgcolor="#CCFFCC">&nbsp;</td>
+    <td height="21">&nbsp;</td>
+    <td width="40">&nbsp;</td>
+  <tr>
+    <td width="2" bordercolor="#99FF33" bgcolor="#CCFFCC">&nbsp;</td>
+    <td width="182" bordercolor="#99FF33" bgcolor="#FF9966"><div align="center"><a href="vorstand.html"><strong>Vorstand</strong></a></div></td>
+    <td>&nbsp;</td>
+    <td rowspan="3">	
+
+      <span class="style50">Reg. Nr.: VR 6319
+      <br />
+  Steuernummer: 040 250 71920</span></td>
+    <td height="21">&nbsp;</td>
+    <td width="23">&nbsp;</td>
+  <tr>
+    <td width="2" bordercolor="#99FF33" bgcolor="#CCFFCC">&nbsp;</td>
+    <td width="182" bordercolor="#99FF33" bgcolor="#CCFFCC">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td width="23">&nbsp;</td>
+  <tr>
+    <td colspan="2" bordercolor="#99FF33" bgcolor="#CCFFCC">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td width="23">&nbsp;</td>
+  <tr>
+    <td colspan="2" bordercolor="#99FF33" bgcolor="#CCFFCC">&nbsp;</td>
+    <td height="21">&nbsp;</td>
+    <td rowspan="10"><p><span class="style49">Spendenkonto: </span><span class="style48"><strong>KAP Deutschland e.V.</strong></span><span class="style44"><br />
+      </span><span class="style49">Stichwort:</span><span class="style44"> <span class="style16">"Ernährungs/Medizin Hilfe"
+        </span></span></p>
+      <p><span class="style44">Konto: <strong class="style16">7505205 
+        </strong><br />
+        BLZ: <span class="style16"><strong>51090000</strong></span>        <br />
+        Volksbank Wiesbaden	<br />
+        <br />
+        <span class="style16"><strong>Für Überweisungen aus dem Ausland:</strong></span> <br />
+        <span class="style16">IBAN:DE75510900000007505205 <br />
+        BIC: WIBADE5W</span></span></p></td>
+    <td>&nbsp;</td>
+    <td width="23">&nbsp;</td>
+  <tr>
+    <td colspan="2" rowspan="13" bordercolor="#99FF33" bgcolor="#CCFFCC"><div align="center"><img src="images/SSL22834.JPG" width="149" height="305" border="1" /></div></td>
+    <td height="21">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td width="23">&nbsp;</td>
+  <tr>
+    <td height="5">&nbsp;</td>  
+    <td>&nbsp;</td>
+    <td width="23">&nbsp;</td>
+  <tr>
+    <td height="7">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td width="23">&nbsp;</td>
+  <tr>
+    <td height="15">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td width="23">&nbsp;</td>
+  <tr>
+    <td height="21">&nbsp;</td>  
+    <td>&nbsp;</td>
+    <td width="23">&nbsp;</td>
+  <tr>
+    <td height="21">&nbsp;</td>  
+    <td>&nbsp;</td>
+    <td width="23">&nbsp;</td>
+  <tr>
+    <td height="21">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td width="23">&nbsp;</td>
+  <tr>
+    <td height="9">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td width="23">&nbsp;</td>
+  <tr>
+    <td height="21">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td width="23">&nbsp;</td>
+  <tr>
+    <td height="25">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td width="23">&nbsp;</td>
+  <tr>
+    <td height="21">&nbsp;</td>
+    <td><div align="center"></div></td>
+    <td>&nbsp;</td>
+    <td width="23">&nbsp;</td>
+  <tr>
+    <td height="9" bordercolor="#99FF33">&nbsp;</td>
+    <td height="9" bordercolor="#99FF33">&nbsp;</td>
+    <td height="9" bordercolor="#99FF33">&nbsp;</td>
+    <td width="23">&nbsp;</td>
+  <tr>
+    <td height="21" bordercolor="#99FF33">&nbsp;</td>
+    <td height="21" bordercolor="#99FF33">&nbsp;</td>
+    <td height="21" bordercolor="#99FF33">&nbsp;</td>
+    <td>&nbsp;</td>
+  <tr>
+    <td bordercolor="#99FF33">&nbsp;</td>
+    <td bordercolor="#99FF33">&nbsp;</td>
+    <td bordercolor="#99FF33">&nbsp;</td>
+    <td bordercolor="#99FF33">&nbsp;</td>
+    <td bordercolor="#99FF33">&nbsp;</td>
+    <td width="293" bordercolor="#99FF33">&nbsp;</td>
+  </tr>
+  
+  
+  
+  
+  
+  
+
+  <tr>
+    <td height="34" colspan="8" bgcolor="#FF9966"><div align="center" class="style16"><a href="kinder-afrika-projekt.html" class="style16">&copy;Kinder Afrika Projekt e.V. 2009</a> <br />
+Adress:
+    Zieglerstr. 26, 65191 Wiesbaden, Tel: 0611 5325148,0176 80054646, Fax: Email: <a href="mailto:info@kap-deutschland.org">info@kap-deutschland.org</a></div></td>
+  </tr>
+</table>
+
+</body>
+</html>
